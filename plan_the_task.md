@@ -304,3 +304,181 @@ Using Post‑its to plan task order helps you:
 - Focus attention where delays really matter
 
 It is quick, intuitive, collaborative — and extremely effective.
+
+# How Much Safety Margin Does a Project Need?
+
+## Why Projects Need Contingency
+Once tasks are sequenced and time estimates are in place, the next step is to accept a simple truth:  
+**projects rarely go exactly as planned**.
+
+Adding contingency is not about working slower or lowering effort.  
+It is about making **promises that can actually be met**.
+
+If you commit to average estimates:
+- You will finish late or over budget about 50% of the time
+- That is not a reliable definition of success
+
+The goal of contingency is to provide stakeholders with **dates and costs they can trust**.
+
+---
+
+## The 90% Rule for Safety Margins
+
+### The Core Idea
+A simple and effective rule for contingency is:
+
+> **Plan halfway between the average case and the worst case**
+
+This approach typically gives you **around a 90% chance of success**, for both:
+- Schedule
+- Budget
+
+---
+
+## Simple Example
+- Average project duration: **10 weeks**
+- Estimated worst case: **18 weeks** (8 weeks late)
+
+Instead of promising:
+- 10 weeks (too optimistic), or
+- 18 weeks (overly cautious)
+
+You promise:
+- 10 + half of 8 = **14 weeks**
+
+That makes the plan **90% reliable**, meaning only 1 project in 10 will run later than promised.
+
+---
+
+## Avoid Obvious “Contingency Blocks”
+Never add a visible block called *contingency* at the end of the plan.
+
+Why?
+- Stakeholders are likely to remove it
+- It signals uncertainty rather than professionalism
+
+### Better Approach
+Distribute the contingency quietly across tasks on the **critical path**:
+- Add a little extra time to several tasks
+- Blend it into the plan naturally
+
+This protects the delivery date without triggering unnecessary pushback.
+
+---
+
+## Why Percentage Buffers Often Fail
+Many people add a flat **10% buffer**.  
+This usually feels safe—but it rarely is.
+
+In the earlier 10‑week example:
+- 10% = 1 extra week
+- Realistic risk = 8 possible weeks
+
+A small percentage does **not** provide high confidence.  
+The buffer must reflect *actual uncertainty*.
+
+---
+
+## When to Be More Conservative
+In projects where failure is unacceptable:
+- Safety‑critical work
+- One‑off events
+- Reputation‑sensitive outcomes
+
+It may be appropriate to plan closer to the **absolute worst case**, not just the 90% point.
+
+---
+
+# How to Calculate and Add Contingency
+
+## Time vs Cost Contingency
+- **Cost contingency** applies to *all tasks* (everything contributes to total spend)
+- **Time contingency** applies only to the **critical path**, because that path determines the finish date
+
+---
+
+## Step‑by‑Step Method
+
+### Step 1: Identify the Critical Path
+Only tasks on the longest path affect the total project duration.
+
+---
+
+### Step 2: Estimate Worst‑Case Delays
+For each critical task, ask:
+> “How late could this realistically be if things go badly?”
+
+Be honest—even if the result feels uncomfortable.
+
+Example worst‑case delays:
+- Permits: +8 weeks
+- Legal work: +4 weeks
+- Construction changes: +4 weeks
+- Installation issues: +2 weeks
+
+---
+
+### Step 3: Add Up the Worst Cases
+Total possible delay across critical tasks:
+- Example total worst‑case delay: **18 weeks**
+
+This number is not your contingency—it is just the risk envelope.
+
+---
+
+### Step 4: Take Half
+To reach the 90% confidence point:
+- Take **half of the worst‑case delay**
+
+Example:
+- Half of 18 weeks = **9 weeks**
+
+---
+
+### Step 5: Add to the Average Plan
+- Average schedule: **34 weeks**
+- Contingency added: **+9 weeks**
+- Committed delivery date: **43 weeks**
+
+This is the date you share with stakeholders.
+
+---
+
+### Step 6: Distribute the Extra Time
+Instead of adding 9 weeks at the end:
+- Spread it across critical tasks
+- Increase individual durations slightly
+
+Example:
+- 4 → 5 weeks  
+- 10 → 13 weeks  
+- 10 → 12 weeks  
+- 8 → 10 weeks  
+- 2 → 3 weeks  
+
+The total increases, but no single task looks suspicious.
+
+---
+
+## Why This Works
+This approach:
+- Reflects real‑world uncertainty
+- Produces credible commitments
+- Protects the promised delivery date
+- Improves trust with stakeholders
+
+Most importantly, it allows you to say:
+> “This date is realistic, not hopeful.”
+
+---
+
+## Summary
+To add effective safety margin:
+- Accept that things will go wrong
+- Estimate realistic worst cases
+- Plan halfway between average and worst
+- Apply time contingency only to the critical path
+- Distribute buffers invisibly across tasks
+
+A reliable plan is far more valuable than an optimistic one.
+
