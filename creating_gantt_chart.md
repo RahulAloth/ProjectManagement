@@ -587,4 +587,256 @@ When considering whether to create a template:
 - Would removing a few tasks be easier than building a new chart from scratch?
 
 If the answer is “yes,” then creating a lightweight Gantt template is probably worth it.
+# How to Create a Gantt Chart
 
+## What a Gantt Chart Is
+A Gantt chart is a **timeline‑based bar chart** that shows all project tasks laid out over time.
+
+- Tasks are listed vertically
+- Time runs horizontally
+- Each task is drawn to scale as a bar
+
+Because everything is visual, even people with no project management background can quickly understand:
+- What needs to be done
+- When it will happen
+- How tasks relate to each other
+
+The chart is named after **Henry Gantt**, who developed the concept over a century ago.
+
+---
+
+## Always Start with Post‑its
+Creating a Gantt chart is easy **only if** you already have a Post‑it task diagram.
+
+If you skip the Post‑its and jump straight to software:
+- It takes much longer
+- Task dependencies are likely to be wrong
+- The critical path may be missed or misidentified
+
+The Post‑it plan tells you:
+- Task order
+- Dependencies
+- Critical vs floating tasks
+
+Once you have that, the Gantt chart is mostly transcription.
+
+---
+
+## Basic Gantt Chart Structure
+
+### Step 1: Set Up the Framework
+- List tasks down the left side
+  - Put **critical path tasks first**
+  - Floating tasks go underneath
+- Put time units (e.g. weeks) across the top
+  - The total length comes from the critical path duration
+
+At this point, you have an empty grid.
+
+---
+
+### Step 2: Add the Critical Path
+Draw the critical tasks first:
+- Each task starts when the previous one finishes
+- The bars form a continuous stepped line
+- Overlaps immediately become visible
+
+If you choose to overlap tasks to save time, the Gantt chart makes that decision obvious.
+
+---
+
+### Step 3: Add Floating Tasks
+Floating tasks are added one by one.
+
+For each task, ask two questions:
+1. What must this task come *after*?
+2. What must it be finished *before*?
+
+These constraints define the **range** in which the task can move (its float).
+
+To show this:
+- Use vertical markers to show earliest and latest possible positions
+- Place the task bar somewhere within that range
+
+---
+
+## Two Slightly Tricky Variations
+
+### 1. Sharing Float
+Sometimes multiple tasks fit into the same available space.
+
+Example:
+- Hiring a manager
+- Buying furniture
+
+Both must be completed before installation, so they share the same float window.  
+As long as they both finish in time, it doesn’t matter how the space is divided.
+
+---
+
+### 2. Floaters Depending on Floaters
+Some tasks depend on other tasks that are themselves movable.
+
+Example:
+- Hiring staff depends on hiring the manager
+- The manager task can move
+- The staff task “hangs off” that moving task
+
+Once you understand these two patterns, you can build Gantt charts of any size.
+
+---
+
+## Why Gantt Charts Are Essential
+
+### 1. Communication
+Gantt charts are one of the clearest ways to explain a project:
+- Everyone can see their role
+- The overall shape of the project is visible
+- Critical and non‑critical work is obvious
+
+This makes it much easier for people to commit their time in advance.
+
+---
+
+### 2. Resource Planning
+Looking vertically at the chart shows:
+- Busy periods
+- Quiet periods
+- Potential overloads
+
+There is no better way to predict future workload.
+
+---
+
+### 3. Progress Tracking
+Progress can be tracked by coloring in completed work.
+
+This allows you to compare:
+- What *should* be done by now
+- What *has actually* been done
+
+A simple task list cannot show this difference clearly.
+
+---
+
+### 4. Cost Control
+Costs only make sense when viewed alongside progress.
+
+Example:
+- 50% of the budget spent
+- But only 25% of the work completed
+
+The Gantt chart allows financial data to be interpreted correctly by showing work completed versus money spent.
+
+---
+
+## Creating a Gantt Chart in Excel
+
+Excel is sufficient even for large projects:
+- Widely available
+- Flexible
+- Quick to use
+
+The same principles apply to any project management software.
+
+---
+
+### Step 1: Enter Tasks and Time Scale
+- List tasks down the left
+- Add week numbers across the top
+- Adjust column widths so everything fits neatly
+
+---
+
+### Step 2: Use Conditional Formatting
+Conditional formatting automatically colors bars:
+- Cells greater than zero become colored
+- Different colors can distinguish:
+  - Critical tasks
+  - Floating tasks
+
+This removes the need to manually draw bars.
+
+---
+
+### Step 3: Add Task Bars
+- Enter values (e.g. `1`) to activate color
+- Copy and paste to adjust start points
+- Overlaps are easy to represent by shifting bars
+
+This makes experimenting with different schedules very quick.
+
+---
+
+### Step 4: Show Milestones
+Events with zero duration (e.g. “Go Live”) are shown as:
+- A vertical line
+- A diamond marker placed on that line
+
+This makes milestones easy to identify.
+
+---
+
+## Adding Names and Real Dates
+
+### Assign Task Owners
+Insert a column to show:
+- Who is responsible for each task
+
+This increases accountability and clarity.
+
+---
+
+### Convert Weeks to Calendar Dates
+- Enter a start date
+- Auto‑fill weekly dates across the top
+
+This allows team members to:
+- Check diaries
+- Plan availability
+- Commit realistically
+
+---
+
+## Adding Time and Cost Information
+
+### Tracking Time (Hours or People)
+- Replace bar values with hours per week
+- Use AutoSum vertically to see weekly workload
+- Use AutoSum horizontally to see total effort per task
+
+This helps identify:
+- Peak workload periods
+- Tasks that consume most effort
+
+---
+
+### Tracking Costs
+- Duplicate the Gantt sheet
+- Replace hours with costs
+- Analyze when money is spent and on what
+
+This allows:
+- Cost sanity checks
+- Identification of major cost drivers
+- Better financial control
+
+---
+
+## Scaling Up with Sub‑Gantts
+For large projects:
+- Keep the main Gantt high‑level
+- Break complex tasks into separate sub‑Gantt charts
+
+Each high‑level task can have its own detailed plan without cluttering the main schedule.
+
+---
+
+## Summary
+A Gantt chart:
+- Makes the plan visible and understandable
+- Supports communication, resources, progress, and costs
+- Is easy to build once the Post‑it plan exists
+- Scales from small projects to major programs
+
+Always build the Post‑it plan first—then the Gantt chart becomes quick, clear, and powerful.
