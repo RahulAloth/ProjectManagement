@@ -1,0 +1,114 @@
+# 📘 Study Notes: Assigning Resources to Tasks
+
+## 🔹 1. Purpose of Resource Assignment
+- Completing a schedule requires:
+  - ✅ Task sequence
+  - ✅ Task durations
+  - ✅ Resource assignment
+- Resources determine:
+  - **How long tasks take**
+  - **When tasks can occur**
+
+---
+
+## 🔹 2. Where to Assign Resources
+
+### ✅ Assign resources only to:
+- **Work Packages (lowest level of WBS)**  
+  - These represent actual **work to be done**
+
+### ❌ Do NOT assign resources to:
+- **Summary Tasks**
+  - These only roll up lower-level tasks
+- **Milestones**
+  - They have **zero duration**
+
+---
+
+## 🔹 3. Duration vs Work-Based Scheduling
+
+### ✅ Case 1: Estimating Duration
+- You define:
+  - Task duration
+  - Number of resources
+
+👉 Tool calculates **total work**
+
+**Example:**
+````
+2 resources × full-time × 2 weeks = 160 hours of work
+
+````
+
+---
+
+### ✅ Case 2: Estimating Work
+- You define:
+  - Total work (hours)
+  - Resource allocation
+
+👉 Tool calculates **task duration**
+
+---
+
+## 🔹 4. Tasks That Don’t Change with More Resources
+
+- Some tasks **cannot be shortened** by adding people
+
+### Example:
+- Meeting duration:
+
+4-hour meeting = 4 hours
+(regardless of 3 or 10 participants)
+
+---
+
+## 🔹 5. Resource Availability Impact
+
+- Task timing depends on **when resources are available**
+
+### Example:
+
+Planned start: November 9
+Actual availability: November 18
+→ Task must be delayed to November 18
+
+✅ Key Point:
+- Schedule must align with **real resource availability**
+
+---
+
+## 🔹 6. Types of Resources to Assign
+
+### 👥 Human Resources
+- Team members
+- Vendors
+- Specialists
+
+### 🛠️ Non-Human Resources
+- Equipment
+- Materials
+- Tools
+
+### 💰 Additional Costs
+- Ancillary/project-related expenses
+
+---
+
+## 🔹 7. Final Outcome of Resource Assignment
+- Enables:
+  - Accurate **task durations**
+  - Realistic **start and end dates**
+  - Complete **project schedule**
+
+---
+
+## 🔹 ✅ Key Takeaways
+- Assign resources **only to work packages**
+- Choose between:
+  - Duration-based vs Work-based estimation
+- More resources ≠ always faster completion
+- Resource availability directly impacts schedule
+- Include all resource types (people, equipment, costs)
+
+---
