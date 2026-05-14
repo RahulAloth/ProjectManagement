@@ -26,125 +26,84 @@ This repository is a structured knowledge base of study notes, practical framewo
 - [`creating_organizational_value`](/creating_organizational_value.md)
 - [`organizational_alignment`](/organizational_alignment.md)
 
----
-
 ### 🧩 Initiation & Scope
-- `initiate_project_1.md`
-- `initiate_project_2.md`
-- `scope_management.md`
-- `understand_scope_management.md`
-- `managing_project_scope.md`
-
----
+- [`initiate_project_1`](/initiate_project_1.md)
+- [`initiate_project_2`](/initiate_project_2.md)
+- [`scope_management`](/scope_management.md)
+- [`understand_scope_management`](/understand_scope_management.md)
+- [`managing_project_scope`](/managing_project_scope.md)
 
 ### 📊 Planning, Scheduling & Execution
-- `work_breakdown_structure.md`
-- `plan_the_task.md`
-- `project_management_estimation.md`
-- `project_safety_margins.md`
-- `project_scheduling.md`
-- `project_schedule_tasks_in_sequence.md`
-- `assinging_resouces_to_task,md`
-- `project_kick_off.md`
-- `monitor_project.md`
-
----
+- [`work_breakdown_structure`](/work_breakdown_structure.md)
+- [`plan_the_task`](/plan_the_task.md)
+- [`project_management_estimation`](/project_management_estimation.md)
+- [`project_safety_margins`](/project_safety_margins.md)
+- [`project_scheduling`](/project_scheduling.md)
+- [`project_schedule_tasks_in_sequence`](/project_schedule_tasks_in_sequence.md)
+- [`assinging_resouces_to_task`](/assinging_resouces_to_task,md)
+- [`project_kick_off`](/project_kick_off.md)
+- [`monitor_project`](/monitor_project.md)
 
 ### ⚠️ Risk, Change & Control
-- `pm_risk_management.md`
-- `risk_management.md`
-- `gather_project_data.md`
-
----
+- [`pm_risk_management`](/pm_risk_management.md)
+- [`risk_management`](/risk_management.md)
+- [`gather_project_data`](/gather_project_data.md)
 
 ### 👥 Team & Leadership in Projects
-- `managing_project_team.md`
-- `developing_a_good_team.md`
-- `characteristics_of_great_team.md`
-
----
+- [`managing_project_team`](/managing_project_team.md)
+- [`developing_a_good_team`](/developing_a_good_team.md)
+- [`characteristics_of_great_team`](/characteristics_of_great_team.md)
 
 ### 🔚 Closing & Delivery
-- `clossing_a_project.md`
+- [`clossing_a_project`](/clossing_a_project.md)
 
----
+### ⚡ Agile Project Management
+- [`agile_project_management`](/agile_project_management.md)
+- [`agile_speculate_stage`](/agile_speculate_stage.md)
 
-## ⚡ Agile Project Management
+### 📅 Gantt Charts & Scheduling
+- [`gantt_chart_introduction`](/gantt_chart_introduction.md)
+- [`gantt_chart_how_to_use`](/gantt_chart_how_to_use.md)
+- [`creating_gantt_chart`](/creating_gantt_chart.md)
+- [`Gantt_chart_usage`](/Gantt_chart_usage.md)
+- [`usages_of_Gantts`](/usages_of_Gantts.md)
 
-- `agile_project_management.md`
-- `agile_speculate_stage.md`
+### 🧠 Productivity & Time Management
+- [`productivitiy_principle_space`](/productivitiy_principle_space.md)
+- [`productivitiy_principle_time`](/productivitiy_principle_time.md)
+- [`productivity_principle_action`](/productivity_principle_action.md)
+- [`productivity_princple_mind`](/productivity_princple_mind.md)
+- [`groundwork_for_productivitiy`](/groundwork_for_productivitiy.md)
+- [`mastering_processing_system`](/mastering_processing_system.md)
+- [`processing_email`](/processing_email.md)
+- [`focus_order_of_offloading`](/focus_order_of_offloading.md)
+- [`productivitiy_wrap_up`](/productivitiy_wrap_up.md)
+- [`Time_Management`](/Time_Management.md)
+- [`understanding_work_time`](/understanding_work_time.md)
 
----
+### 🗣️ Communication & Business Skills
+- [`communication_for_career_success`](/communication_for_career_success.md)
+- [`communication_common_situation`](/communication_common_situation.md)
+- [`communication_in_difficult_situation`](/communication_in_difficult_situation.md)
+- [`communication_build_rapport`](/communication_build_rapport.md)
+- [`business_writing`](/business_writing.md)
+- [`business_writing_formatting`](/business_writing_formatting.md)
 
-## 📅 Gantt Charts & Scheduling
+### 🤝 Teamwork & Collaboration
+- [`team_work_core`](/team_work_core.md)
+- [`developing_a_good_team`](/developing_a_good_team.md)
+- [`great_team_player`](/great_team_player.md)
+- [`building_up_coworkers`](/building_up_coworkers.md)
+- [`teaming_up_difficulties`](/teaming_up_difficulties.md)
+- [`how_to_change_interact_in_team`](/how_to_change_interact_in_team.md)
+- [`managing_disagreement_toolkit`](/managing_disagreement_toolkit.md)
 
-- `gantt_chart_introduction.md`
-- `gantt_chart_how_to_use.md`
-- `creating_gantt_chart.md`
-- `Gantt_chart_usage.md`
-- `usages_of_Gantts.md`
-
----
-
-## 🧠 Productivity & Time Management
-
-### ⏱️ Core Principles
-- `productivitiy_principle_space.md`
-- `productivitiy_principle_time.md`
-- `productivity_principle_action.md`
-- `productivity_princple_mind.md`
-
-### ⚙️ Systems & Execution
-- `groundwork_for_productivitiy.md`
-- `mastering_processing_system.md`
-- `processing_email.md`
-- `focus_order_of_offloading.md`
-- `productivitiy_wrap_up.md`
-
-### 📆 Time Management
-- `Time_Management.md`
-- `understanding_work_time.md`
-
----
-
-## 🗣️ Communication & Business Skills
-
-### 💬 Communication
-- `communication_for_career_success.md`
-- `communication_common_situation.md`
-- `communication_in_difficult_situation.md`
-- `communication_build_rapport.md`
-
-### ✍️ Business Writing
-- `business_writing.md`
-- `business_writing_formatting.md`
-
----
-
-## 🤝 Teamwork & Collaboration
-
-### 🧑‍🤝‍🧑 Team Development
-- `team_work_core.md`
-- `developing_a_good_team.md`
-- `great_team_player.md`
-- `building_up_coworkers.md`
-
-### ⚠️ Team Challenges
-- `teaming_up_difficulties.md`
-- `how_to_change_interact_in_team.md`
-- `managing_disagreement_toolkit.md`
-
----
-
-## 📅 Meetings & Collaboration
-
-- `meeting_before_prep.md`
-- `during_the_meeting.md`
-- `using_the_meeting_time.md`
-- `group_meetings.md`
-- `After_the_Meeting.md`
-
----
+### 📅 Meetings & Collaboration
+- [`meeting_before_prep`](/meeting_before_prep.md)
+- [`during_the_meeting`](/during_the_meeting.md)
+- [`using_the_meeting_time`](/using_the_meeting_time.md)
+- [`group_meetings`](/group_meetings.md)
+- [`After_the_Meeting`](/After_the_Meeting.md)
 
 ## 📚 Supporting Resources
 
