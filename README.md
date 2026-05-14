@@ -18,13 +18,13 @@ This repository is a structured knowledge base of study notes, practical framewo
 ## 🚀 Project Management
 
 ### 📍 Foundations & Process
-- `project_management_foundation.md`
-- `project_management_process.md`
-- `project_planning_overview.md`
-- `project_management_plannings.md`
-- `deliver_successfull_project.md`
-- `creating_organizational_value.md`
-- `organizational_alignment.md`
+- [`project_management_foundation`](/project_management_foundation.md)
+- [`project_management_process`](/project_management_process.md)
+- [`project_planning_overview`](/project_planning_overview.md)
+- [`project_management_plannings`](/project_management_plannings.md)
+- [`deliver_successfull_project`](/deliver_successfull_project.md)
+- [`creating_organizational_value`](/creating_organizational_value.md)
+- [`organizational_alignment`](/organizational_alignment.md)
 
 ---
 
